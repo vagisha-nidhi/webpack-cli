@@ -28,7 +28,7 @@
     "@types/got": "^8.3.3",
     "@types/jest": "^23.3.2",
     "@types/log-symbols": "^2.0.0",
-    "@types/node": "^10.9.4",
+    "@types/node": "^10.12.1",
     "@types/p-each-series": "^1.0.0",
     "@types/prettier": "^1.13.2",
     "typescript": "^3.1.3"
